@@ -1,4 +1,3 @@
-[[_TOC_]]
 # DocsAsCodeTraining
 ## Creating a Repository in GitHub
 ## Using Makdown
@@ -19,3 +18,4 @@ Underscore text Underscore
 5. Wait for few seconds.
 6. You can see the URL where the code is published as Website.
 7. Click on the URL, you can see the **Readme** file in the browser.
+Commiting from desktop
