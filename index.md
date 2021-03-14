@@ -9,6 +9,9 @@ My name is {{ page.first }}
 
 I have a class at {{ site.When }}
 
+{% item in site.data.employment %}
+{{ item.company }}, {{ item.years }}
+{% endfor %}
 
 1. Pls go to Settings.
 2. Scroll down and go to **GitHub Pages**.
