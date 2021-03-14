@@ -10,7 +10,7 @@ My name is {{ page.first }}
 I have a class at {{ site.When }}
 
 {% for item in site.data.employment %}
-{{ item.company }}, {{ item.years }}
+{{ item.Company }}, {{ item.years }}
 {% endfor %}
 
 1. Pls go to Settings.
