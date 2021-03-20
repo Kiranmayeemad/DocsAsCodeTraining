@@ -19,3 +19,11 @@ Underscore text Underscore
 6. You can see the URL where the code is published as Website.
 7. Click on the URL, you can see the **Readme** file in the browser.
 Commiting from desktop
+
+```
+<html>
+  <head></head>
+  <body>
+  <p> This is sample html</p>
+    </body>
+```
